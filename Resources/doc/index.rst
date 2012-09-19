@@ -1,7 +1,7 @@
 MongoDB Acl Provider
 ====================
 
-To use the MongoDB Acl Provider, the minimal configuration is adding acl_provider to the MongoDb config in config.yml
+To use the MongoDB Acl Provider, the minimal configuration is adding acl_provider to the MongoDb config in config.yml...
 
      # app/config/config.yml
     iampersistent_mongodb_acl:
